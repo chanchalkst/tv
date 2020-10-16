@@ -4,3 +4,7 @@ https://ott.bingebd.com/live/ngrp:afjd-asdt-100df-03as-f7as-1ffd2-t12a-sjt32x-zp
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TcGPubh.jpg",Zee Cinema HD
 https://z5ams.akamaized.net/zcinemahd/index.m3u8?hdnts=st=1602816068~exp=1602819068~acl=/*~hmac=625028478adb8f3a55afb86610d962079e24a5ab9856c47e3253de96264314e0
+
+
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png",And Picture HD
+https://z5ams.akamaized.net/andpicshd/index.m3u8?hdnts=st=1602816338~exp=1602819338~acl=/*~hmac=f07cd76e04b2188504dc39309cd4c41f9d7fe2b47b4aede2012b33731ce14560
