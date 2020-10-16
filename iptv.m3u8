@@ -1,2 +1,6 @@
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/43/Sony_Max_HD.svg/revision/latest/scale-to-width-down/340?cb=20191222183157",Sony Max HD
 https://ott.bingebd.com/live/ngrp:afjd-asdt-100df-03as-f7as-1ffd2-t12a-sjt32x-zp3e-dsf-3b7aa-gad-621h-adhay-en126-sony_max623-ba7df-heb-f36be-f63-rha/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TcGPubh.jpg" group-title="HINDI MOVIES",Zee Cinema HD
+https://z5ams.akamaized.net/zcinemahd/index.m3u8?hdnts=st=1602816068~exp=1602819068~acl=/*~hmac=625028478adb8f3a55afb86610d962079e24a5ab9856c47e3253de96264314e0
