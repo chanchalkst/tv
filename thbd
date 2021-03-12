@@ -1,3 +1,5 @@
+#EXTM3U
+
 #EXTINF:-1
 http://edge.thunderbd.com:8082/1/index.m3u8?token=9d4e55ba4a548c1732b0746d107e35547c3dc2ad-e37e4dfe22ad3d3db87604a607da52c8-1615525843-1615515043&remote=103.82.11.32
 #EXTINF:-1
