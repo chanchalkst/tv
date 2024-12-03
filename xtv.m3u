@@ -1,4 +1,4 @@
-#extm3u
+#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="BD-loc: Gazi TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="BANGLADESH",BD-loc: Gazi TV
 http://xtv.ooo:8080/810523/322522/245901
 #EXTINF:-1 tvg-id="" tvg-name="BD-loc: Channel 9" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/1200px-Channel9_bd.svg.png" group-title="BANGLADESH",BD-loc: Channel 9
@@ -135,8 +135,6 @@ http://xtv.ooo:8080/810523/322522/245906
 http://xtv.ooo:8080/810523/322522/245991
 #EXTINF:-1 tvg-id="" tvg-name="NEWS 18 BANGLA" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2021/02/News18-Bangla.jpg" group-title="BANGLADESH",NEWS 18 BANGLA
 http://xtv.ooo:8080/810523/322522/245992
-#EXTINF:-1 tvg-id="" tvg-name="***KIDS***" tvg-logo="" group-title="INDIAN | KIDS Cartoon",***KIDS***
-http://xtv.ooo:8080/810523/322522/106148
 #EXTINF:-1 tvg-id="cartoonnetworkhd.in" tvg-name="IN: Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/2000px-Cartoon_Network_2010_logo.svg.png" group-title="INDIAN | KIDS Cartoon",IN: Cartoon Network
 http://xtv.ooo:8080/810523/322522/150478
 #EXTINF:-1 tvg-id="pogo.in" tvg-name="IN: Pogo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/POGO-logo.png" group-title="INDIAN | KIDS Cartoon",IN: Pogo
@@ -243,8 +241,6 @@ http://xtv.ooo:8080/810523/322522/220063
 http://xtv.ooo:8080/810523/322522/220064
 #EXTINF:-1 tvg-id="" tvg-name="SERVER 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Cricketball.png/220px-Cricketball.png" group-title="CRI  | T20 World Cup (2024)",SERVER 7
 http://xtv.ooo:8080/810523/322522/220065
-#EXTINF:-1 tvg-id="" tvg-name="*** WellCome ***" tvg-logo="" group-title="CRICKET",*** WellCome ***
-http://xtv.ooo:8080/810523/322522/26014
 #EXTINF:-1 tvg-id="" tvg-name="PK: PTV SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="CRICKET",PK: PTV SPORTS
 http://xtv.ooo:8080/810523/322522/167567
 #EXTINF:-1 tvg-id="" tvg-name="PK: PTV SPORTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="CRICKET",PK: PTV SPORTS HD
@@ -483,8 +479,6 @@ http://xtv.ooo:8080/810523/322522/109993
 http://xtv.ooo:8080/810523/322522/109994
 #EXTINF:-1 tvg-id="dsport.in" tvg-name="IN: EUROPSPORT (4K)" tvg-logo="https://e7.pngegg.com/pngimages/317/742/png-clipart-europe-eurosport-1-television-channel-others-television-blue.png" group-title="INDIAN | SPORTS 4K (ULTRA HD)",IN: EUROPSPORT (4K)
 http://xtv.ooo:8080/810523/322522/206324
-#EXTINF:-1 tvg-id="" tvg-name="***** IN | India *****" tvg-logo="" group-title="INDIAN | ENTERTAINMENT",***** IN | India *****
-http://xtv.ooo:8080/810523/322522/66161
 #EXTINF:-1 tvg-id="zeetvhd.in" tvg-name="IN | Zee TV" tvg-logo="https://static.epg.best/sg/ZeeTV.sg.png" group-title="INDIAN | ENTERTAINMENT",IN | Zee TV
 http://xtv.ooo:8080/810523/322522/221250
 #EXTINF:-1 tvg-id="zeetvhd.in" tvg-name="IN | Zee TV HD" tvg-logo="https://static.epg.best/sg/ZeeTV.sg.png" group-title="INDIAN | ENTERTAINMENT",IN | Zee TV HD
