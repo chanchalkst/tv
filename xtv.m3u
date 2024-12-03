@@ -45,16 +45,12 @@ http://xtv.ooo:8080/810523/322522/245924
 http://xtv.ooo:8080/810523/322522/245925
 #EXTINF:-1 tvg-id="" tvg-name="BD-loc: Deepto tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" group-title="BANGLADESH",BD-loc: Deepto tv
 http://xtv.ooo:8080/810523/322522/245927
-#EXTINF:-1 tvg-id="" tvg-name="BD-loc: Aakaash" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/8/80/%E0%A6%86%E0%A6%95%E0%A6%BE%E0%A6%B6_%E0%A7%AE_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8_%E0%A6%9A%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpeg" group-title="BANGLADESH",BD-loc: Aakaash
-http://xtv.ooo:8080/810523/322522/245928
 #EXTINF:-1 tvg-id="" tvg-name="BD: Ananda TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/Ananda_TV_Logo.png" group-title="BANGLADESH",BD: Ananda TV
 http://xtv.ooo:8080/810523/322522/245929
 #EXTINF:-1 tvg-id="" tvg-name="BD-loc: BTV-" tvg-logo="" group-title="BANGLADESH",BD-loc: BTV-
 http://xtv.ooo:8080/810523/322522/245930
 #EXTINF:-1 tvg-id="" tvg-name="BD-loc: Ruposhi Bangla" tvg-logo="" group-title="BANGLADESH",BD-loc: Ruposhi Bangla
 http://xtv.ooo:8080/810523/322522/245932
-#EXTINF:-1 tvg-id="" tvg-name="BD-loc: sangeet bangla" tvg-logo="" group-title="BANGLADESH",BD-loc: sangeet bangla
-http://xtv.ooo:8080/810523/322522/245933
 #EXTINF:-1 tvg-id="" tvg-name="BD: GaanbAngla Tv" tvg-logo="" group-title="BANGLADESH",BD: GaanbAngla Tv
 http://xtv.ooo:8080/810523/322522/245935
 #EXTINF:-1 tvg-id="" tvg-name="bd-loc: Ekushey TV" tvg-logo="" group-title="BANGLADESH",bd-loc: Ekushey TV
@@ -77,12 +73,6 @@ http://xtv.ooo:8080/810523/322522/245946
 http://xtv.ooo:8080/810523/322522/245947
 #EXTINF:-1 tvg-id="" tvg-name="BD-Loc: Nexus TV" tvg-logo="" group-title="BANGLADESH",BD-Loc: Nexus TV
 http://xtv.ooo:8080/810523/322522/245949
-#EXTINF:-1 tvg-id="" tvg-name="Bd-loc: Tv9 bangla" tvg-logo="" group-title="BANGLADESH",Bd-loc: Tv9 bangla
-http://xtv.ooo:8080/810523/322522/245950
-#EXTINF:-1 tvg-id="" tvg-name="BD: MOVIE BANGLA" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngTKQDhLgy2m5yX3PRqIxFs9B-4Ia0bwC7ajrgx=s900-c-k-c0x00ffffff-no-rj" group-title="BANGLADESH",BD: MOVIE BANGLA
-http://xtv.ooo:8080/810523/322522/245951
-#EXTINF:-1 tvg-id="" tvg-name="BD: ENTER 10 BANGLA" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSOYXIeK79V_LpWCfGMDVyHvm65EaId7IfkUHFh=s900-c-k-c0x00ffffff-no-rj" group-title="BANGLADESH",BD: ENTER 10 BANGLA
-http://xtv.ooo:8080/810523/322522/245954
 #EXTINF:-1 tvg-id="" tvg-name="BD | DURONTO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Duronto_TV_logo.jpg" group-title="BANGLADESH",BD | DURONTO TV
 http://xtv.ooo:8080/810523/322522/245955
 #EXTINF:-1 tvg-id="" tvg-name="BD | BANGLA VISION" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Banglavision.svg/1200px-Banglavision.svg.png" group-title="BANGLADESH",BD | BANGLA VISION
@@ -119,6 +109,16 @@ http://xtv.ooo:8080/810523/322522/246010
 http://xtv.ooo:8080/810523/322522/301102
 #EXTINF:-1 tvg-id="" tvg-name="IN: Republic Bangla" tvg-logo="" group-title="BANGLADESH",IN: Republic Bangla
 http://xtv.ooo:8080/810523/322522/355824
+#EXTINF:-1 tvg-id="" tvg-name="BD-loc: Aakaash" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/8/80/%E0%A6%86%E0%A6%95%E0%A6%BE%E0%A6%B6_%E0%A7%AE_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8_%E0%A6%9A%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpeg" group-title="BANGLADESH",BD-loc: Aakaash
+http://xtv.ooo:8080/810523/322522/245928
+#EXTINF:-1 tvg-id="" tvg-name="BD-loc: sangeet bangla" tvg-logo="" group-title="BANGLADESH",BD-loc: sangeet bangla
+http://xtv.ooo:8080/810523/322522/245933
+#EXTINF:-1 tvg-id="" tvg-name="Bd-loc: Tv9 bangla" tvg-logo="" group-title="BANGLADESH",Bd-loc: Tv9 bangla
+http://xtv.ooo:8080/810523/322522/245950
+#EXTINF:-1 tvg-id="" tvg-name="BD: MOVIE BANGLA" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngTKQDhLgy2m5yX3PRqIxFs9B-4Ia0bwC7ajrgx=s900-c-k-c0x00ffffff-no-rj" group-title="BANGLADESH",BD: MOVIE BANGLA
+http://xtv.ooo:8080/810523/322522/245951
+#EXTINF:-1 tvg-id="" tvg-name="BD: ENTER 10 BANGLA" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSOYXIeK79V_LpWCfGMDVyHvm65EaId7IfkUHFh=s900-c-k-c0x00ffffff-no-rj" group-title="BANGLADESH",BD: ENTER 10 BANGLA
+http://xtv.ooo:8080/810523/322522/245954
 #EXTINF:-1 tvg-id="zeebanglahd.in" tvg-name="IND-Bangla: Zee Bangla HD" tvg-logo="http://openboxv8s.com/india/zee_bangla.jpg" group-title="BANGLADESH",IND-Bangla: Zee Bangla HD
 http://xtv.ooo:8080/810523/322522/245893
 #EXTINF:-1 tvg-id="" tvg-name="BD-loc: Colors Bangla" tvg-logo="" group-title="BANGLADESH",BD-loc: Colors Bangla
