@@ -145,6 +145,14 @@ http://tv.cloudcdn.me:80/live.ts?channelId=213&uid=5410&deviceMac=00:1A:79:0E:F8
 http://tv.cloudcdn.me:80/live.ts?channelId=12359&uid=5410&deviceMac=00:1A:79:0E:F8:A1
 #EXTINF:-1 tvg-id="" tvg-name="IN: Zee Cinema UK" tvg-link="http://www.luckonline.eu/xmltv.php?username=restream234509023&password=5667883dhlkths89&type=m3u&output=m3u" tvg-logo="http://ujm.from-in.com/panel/imageicon/330f27f.png" group-title="INDIAN" ,IN: Zee Cinema UK
 http://tv.cloudcdn.me:80/live.ts?channelId=214&uid=5410&deviceMac=00:1A:79:0E:F8:A1
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony TV FHD" tvg-link="http://www.luckonline.eu/xmltv.php?username=restream234509023&password=5667883dhlkths89&type=m3u&output=m3u" tvg-logo="http://ujm.from-in.com/panel/imageicon/8046270.png" group-title="INDIAN" ,IN: Sony TV FHD
+http://tv.cloudcdn.me:80/live.ts?channelId=193&uid=5410&deviceMac=00:1A:79:0E:F8:A1
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony TV FHD." tvg-link="http://www.luckonline.eu/xmltv.php?username=restream234509023&password=5667883dhlkths89&type=m3u&output=m3u" tvg-logo="http://ujm.from-in.com/panel/imageicon/8046270.png" group-title="INDIAN" ,IN: Sony TV FHD.
+http://tv.cloudcdn.me:80/live.ts?channelId=12356&uid=5410&deviceMac=00:1A:79:0E:F8:A1
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony TV HD UK" tvg-link="http://www.luckonline.eu/xmltv.php?username=restream234509023&password=5667883dhlkths89&type=m3u&output=m3u" tvg-logo="http://ujm.from-in.com/panel/imageicon/8046270.png" group-title="INDIAN" ,IN: Sony TV HD UK
+http://tv.cloudcdn.me:80/live.ts?channelId=194&uid=5410&deviceMac=00:1A:79:0E:F8:A1
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony TV HD UK." tvg-link="http://www.luckonline.eu/xmltv.php?username=restream234509023&password=5667883dhlkths89&type=m3u&output=m3u" tvg-logo="http://ujm.from-in.com/panel/imageicon/8046270.png" group-title="INDIAN" ,IN: Sony TV HD UK.
+http://tv.cloudcdn.me:80/live.ts?channelId=132226&uid=5410&deviceMac=00:1A:79:0E:F8:A1
 #EXTINF:-1 tvg-id="" tvg-name="IN: & TV FHD" tvg-link="http://www.luckonline.eu/xmltv.php?username=restream234509023&password=5667883dhlkths89&type=m3u&output=m3u" tvg-logo="http://ujm.from-in.com/panel/imageicon/a8337e0.png" group-title="INDIAN" ,IN: & TV FHD
 http://tv.cloudcdn.me:80/live.ts?channelId=140&uid=5410&deviceMac=00:1A:79:0E:F8:A1
 #EXTINF:-1 tvg-id="" tvg-name="IN: & TV FHD (USA)" tvg-link="http://www.luckonline.eu/xmltv.php?username=restream234509023&password=5667883dhlkths89&type=m3u&output=m3u" tvg-logo="http://ujm.from-in.com/panel/imageicon/a8337e0.png" group-title="INDIAN" ,IN: & TV FHD (USA)
@@ -295,14 +303,6 @@ http://tv.cloudcdn.me:80/live.ts?channelId=191&uid=5410&deviceMac=00:1A:79:0E:F8
 http://tv.cloudcdn.me:80/live.ts?channelId=260&uid=5410&deviceMac=00:1A:79:0E:F8:A1
 #EXTINF:-1 tvg-id="" tvg-name="IN: Sony Sab UK HD" tvg-link="http://www.luckonline.eu/xmltv.php?username=restream234509023&password=5667883dhlkths89&type=m3u&output=m3u" tvg-logo="http://ujm.from-in.com/panel/imageicon/dbd9534.png" group-title="INDIAN" ,IN: Sony Sab UK HD
 http://tv.cloudcdn.me:80/live.ts?channelId=192&uid=5410&deviceMac=00:1A:79:0E:F8:A1
-#EXTINF:-1 tvg-id="" tvg-name="IN: Sony TV FHD" tvg-link="http://www.luckonline.eu/xmltv.php?username=restream234509023&password=5667883dhlkths89&type=m3u&output=m3u" tvg-logo="http://ujm.from-in.com/panel/imageicon/8046270.png" group-title="INDIAN" ,IN: Sony TV FHD
-http://tv.cloudcdn.me:80/live.ts?channelId=193&uid=5410&deviceMac=00:1A:79:0E:F8:A1
-#EXTINF:-1 tvg-id="" tvg-name="IN: Sony TV FHD." tvg-link="http://www.luckonline.eu/xmltv.php?username=restream234509023&password=5667883dhlkths89&type=m3u&output=m3u" tvg-logo="http://ujm.from-in.com/panel/imageicon/8046270.png" group-title="INDIAN" ,IN: Sony TV FHD.
-http://tv.cloudcdn.me:80/live.ts?channelId=12356&uid=5410&deviceMac=00:1A:79:0E:F8:A1
-#EXTINF:-1 tvg-id="" tvg-name="IN: Sony TV HD UK" tvg-link="http://www.luckonline.eu/xmltv.php?username=restream234509023&password=5667883dhlkths89&type=m3u&output=m3u" tvg-logo="http://ujm.from-in.com/panel/imageicon/8046270.png" group-title="INDIAN" ,IN: Sony TV HD UK
-http://tv.cloudcdn.me:80/live.ts?channelId=194&uid=5410&deviceMac=00:1A:79:0E:F8:A1
-#EXTINF:-1 tvg-id="" tvg-name="IN: Sony TV HD UK." tvg-link="http://www.luckonline.eu/xmltv.php?username=restream234509023&password=5667883dhlkths89&type=m3u&output=m3u" tvg-logo="http://ujm.from-in.com/panel/imageicon/8046270.png" group-title="INDIAN" ,IN: Sony TV HD UK.
-http://tv.cloudcdn.me:80/live.ts?channelId=132226&uid=5410&deviceMac=00:1A:79:0E:F8:A1
 #EXTINF:-1 tvg-id="" tvg-name="IN: Sony Wah FHD" tvg-link="http://www.luckonline.eu/xmltv.php?username=restream234509023&password=5667883dhlkths89&type=m3u&output=m3u" tvg-logo="http://ujm.from-in.com/panel/imageicon/73c26e8.png" group-title="INDIAN" ,IN: Sony Wah FHD
 http://tv.cloudcdn.me:80/live.ts?channelId=187&uid=5410&deviceMac=00:1A:79:0E:F8:A1
 #EXTINF:-1 tvg-id="" tvg-name="IN: Star Bharat FHD" tvg-link="http://www.luckonline.eu/xmltv.php?username=restream234509023&password=5667883dhlkths89&type=m3u&output=m3u" tvg-logo="http://ujm.from-in.com/panel/imageicon/2b7f152.png" group-title="INDIAN" ,IN: Star Bharat FHD
