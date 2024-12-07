@@ -109,6 +109,42 @@ http://tv.cloudcdn.me:80/live.ts?channelId=49859&uid=5410&deviceMac=00:1A:79:0E:
 http://tv.cloudcdn.me:80/live.ts?channelId=139&uid=5410&deviceMac=00:1A:79:0E:F8:A1
 #EXTINF:-1 tvg-id="267.tatasky" tvg-name="IN: & Pictures HD" tvg-link="http://www.luckonline.eu/xmltv.php?username=restream234509023&password=5667883dhlkths89&type=m3u&output=m3u" tvg-logo="http://ujm.from-in.com/panel/imageicon/5329167.png" group-title="INDIAN" ,IN: & Pictures HD
 http://tv.cloudcdn.me:80/live.ts?channelId=132225&uid=5410&deviceMac=00:1A:79:0E:F8:A1
+#EXTINF:-1 tvg-id="" tvg-name="IN: Colors Cineplex Bollywood HD" tvg-link="http://www.luckonline.eu/xmltv.php?username=restream234509023&password=5667883dhlkths89&type=m3u&output=m3u" tvg-logo="http://ujm.from-in.com/panel/imageicon/6ae38c6.png" group-title="INDIAN" ,IN: Colors Cineplex Bollywood HD
+http://tv.cloudcdn.me:80/live.ts?channelId=62412&uid=5410&deviceMac=00:1A:79:0E:F8:A1
+#EXTINF:-1 tvg-id="" tvg-name="IN: Colors Cineplex FHD" tvg-link="http://www.luckonline.eu/xmltv.php?username=restream234509023&password=5667883dhlkths89&type=m3u&output=m3u" tvg-logo="http://ujm.from-in.com/panel/imageicon/711d60e.png" group-title="INDIAN" ,IN: Colors Cineplex FHD
+http://tv.cloudcdn.me:80/live.ts?channelId=470&uid=5410&deviceMac=00:1A:79:0E:F8:A1
+#EXTINF:-1 tvg-id="" tvg-name="IN: Colors Cineplex HD" tvg-link="http://www.luckonline.eu/xmltv.php?username=restream234509023&password=5667883dhlkths89&type=m3u&output=m3u" tvg-logo="http://ujm.from-in.com/panel/imageicon/711d60e.png" group-title="INDIAN" ,IN: Colors Cineplex HD
+http://tv.cloudcdn.me:80/live.ts?channelId=132478&uid=5410&deviceMac=00:1A:79:0E:F8:A1
+#EXTINF:-1 tvg-id="" tvg-name="IN: Colors Cineplex HD (UK)" tvg-link="http://www.luckonline.eu/xmltv.php?username=restream234509023&password=5667883dhlkths89&type=m3u&output=m3u" tvg-logo="http://ujm.from-in.com/panel/imageicon/99398d7.png" group-title="INDIAN" ,IN: Colors Cineplex HD (UK)
+http://tv.cloudcdn.me:80/live.ts?channelId=156&uid=5410&deviceMac=00:1A:79:0E:F8:A1
+#EXTINF:-1 tvg-id="" tvg-name="IN: Colors Cineplex Superhits HD" tvg-link="http://www.luckonline.eu/xmltv.php?username=restream234509023&password=5667883dhlkths89&type=m3u&output=m3u" tvg-logo="http://ujm.from-in.com/panel/imageicon/4a7b988.png" group-title="INDIAN" ,IN: Colors Cineplex Superhits HD
+http://tv.cloudcdn.me:80/live.ts?channelId=62413&uid=5410&deviceMac=00:1A:79:0E:F8:A1
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Max 2 FHD" tvg-link="http://www.luckonline.eu/xmltv.php?username=restream234509023&password=5667883dhlkths89&type=m3u&output=m3u" tvg-logo="http://ujm.from-in.com/panel/imageicon/54d97b8.png" group-title="INDIAN" ,IN: Sony Max 2 FHD
+http://tv.cloudcdn.me:80/live.ts?channelId=183&uid=5410&deviceMac=00:1A:79:0E:F8:A1
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Max 2 UK" tvg-link="http://www.luckonline.eu/xmltv.php?username=restream234509023&password=5667883dhlkths89&type=m3u&output=m3u" tvg-logo="http://ujm.from-in.com/panel/imageicon/ad286ec.png" group-title="INDIAN" ,IN: Sony Max 2 UK
+http://tv.cloudcdn.me:80/live.ts?channelId=40479&uid=5410&deviceMac=00:1A:79:0E:F8:A1
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Max FHD" tvg-link="http://www.luckonline.eu/xmltv.php?username=restream234509023&password=5667883dhlkths89&type=m3u&output=m3u" tvg-logo="http://ujm.from-in.com/panel/imageicon/d052853.png" group-title="INDIAN" ,IN: Sony Max FHD
+http://tv.cloudcdn.me:80/live.ts?channelId=184&uid=5410&deviceMac=00:1A:79:0E:F8:A1
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Max FHD." tvg-link="http://www.luckonline.eu/xmltv.php?username=restream234509023&password=5667883dhlkths89&type=m3u&output=m3u" tvg-logo="http://ujm.from-in.com/panel/imageicon/d052853.png" group-title="INDIAN" ,IN: Sony Max FHD.
+http://tv.cloudcdn.me:80/live.ts?channelId=185&uid=5410&deviceMac=00:1A:79:0E:F8:A1
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Max UK FHD" tvg-link="http://www.luckonline.eu/xmltv.php?username=restream234509023&password=5667883dhlkths89&type=m3u&output=m3u" tvg-logo="http://ujm.from-in.com/panel/imageicon/d14875b.png" group-title="INDIAN" ,IN: Sony Max UK FHD
+http://tv.cloudcdn.me:80/live.ts?channelId=186&uid=5410&deviceMac=00:1A:79:0E:F8:A1
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Gold 2 FHD" tvg-link="http://www.luckonline.eu/xmltv.php?username=restream234509023&password=5667883dhlkths89&type=m3u&output=m3u" tvg-logo="http://ujm.from-in.com/panel/imageicon/770f5fd.png" group-title="INDIAN" ,IN: Star Gold 2 FHD
+http://tv.cloudcdn.me:80/live.ts?channelId=33165&uid=5410&deviceMac=00:1A:79:0E:F8:A1
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Gold FHD" tvg-link="http://www.luckonline.eu/xmltv.php?username=restream234509023&password=5667883dhlkths89&type=m3u&output=m3u" tvg-logo="http://ujm.from-in.com/panel/imageicon/770f5fd.png" group-title="INDIAN" ,IN: Star Gold FHD
+http://tv.cloudcdn.me:80/live.ts?channelId=196&uid=5410&deviceMac=00:1A:79:0E:F8:A1
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Gold FHD UK" tvg-link="http://www.luckonline.eu/xmltv.php?username=restream234509023&password=5667883dhlkths89&type=m3u&output=m3u" tvg-logo="http://ujm.from-in.com/panel/imageicon/770f5fd.png" group-title="INDIAN" ,IN: Star Gold FHD UK
+http://tv.cloudcdn.me:80/live.ts?channelId=12358&uid=5410&deviceMac=00:1A:79:0E:F8:A1
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Gold Romance" tvg-link="http://www.luckonline.eu/xmltv.php?username=restream234509023&password=5667883dhlkths89&type=m3u&output=m3u" tvg-logo="" group-title="INDIAN" ,IN: Star Gold Romance
+http://tv.cloudcdn.me:80/live.ts?channelId=128485&uid=5410&deviceMac=00:1A:79:0E:F8:A1
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Gold Select FHD" tvg-link="http://www.luckonline.eu/xmltv.php?username=restream234509023&password=5667883dhlkths89&type=m3u&output=m3u" tvg-logo="http://ujm.from-in.com/panel/imageicon/9ccc18c.png" group-title="INDIAN" ,IN: Star Gold Select FHD
+http://tv.cloudcdn.me:80/live.ts?channelId=197&uid=5410&deviceMac=00:1A:79:0E:F8:A1
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Cinema FHD" tvg-link="http://www.luckonline.eu/xmltv.php?username=restream234509023&password=5667883dhlkths89&type=m3u&output=m3u" tvg-logo="http://ujm.from-in.com/panel/imageicon/9008fbf.png" group-title="INDIAN" ,IN: Zee Cinema FHD
+http://tv.cloudcdn.me:80/live.ts?channelId=213&uid=5410&deviceMac=00:1A:79:0E:F8:A1
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Cinema FHD." tvg-link="http://www.luckonline.eu/xmltv.php?username=restream234509023&password=5667883dhlkths89&type=m3u&output=m3u" tvg-logo="http://ujm.from-in.com/panel/imageicon/c466520.png" group-title="INDIAN" ,IN: Zee Cinema FHD.
+http://tv.cloudcdn.me:80/live.ts?channelId=12359&uid=5410&deviceMac=00:1A:79:0E:F8:A1
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Cinema UK" tvg-link="http://www.luckonline.eu/xmltv.php?username=restream234509023&password=5667883dhlkths89&type=m3u&output=m3u" tvg-logo="http://ujm.from-in.com/panel/imageicon/330f27f.png" group-title="INDIAN" ,IN: Zee Cinema UK
+http://tv.cloudcdn.me:80/live.ts?channelId=214&uid=5410&deviceMac=00:1A:79:0E:F8:A1
 #EXTINF:-1 tvg-id="" tvg-name="IN: & TV FHD" tvg-link="http://www.luckonline.eu/xmltv.php?username=restream234509023&password=5667883dhlkths89&type=m3u&output=m3u" tvg-logo="http://ujm.from-in.com/panel/imageicon/a8337e0.png" group-title="INDIAN" ,IN: & TV FHD
 http://tv.cloudcdn.me:80/live.ts?channelId=140&uid=5410&deviceMac=00:1A:79:0E:F8:A1
 #EXTINF:-1 tvg-id="" tvg-name="IN: & TV FHD (USA)" tvg-link="http://www.luckonline.eu/xmltv.php?username=restream234509023&password=5667883dhlkths89&type=m3u&output=m3u" tvg-logo="http://ujm.from-in.com/panel/imageicon/a8337e0.png" group-title="INDIAN" ,IN: & TV FHD (USA)
@@ -163,16 +199,6 @@ http://tv.cloudcdn.me:80/live.ts?channelId=28125&uid=5410&deviceMac=00:1A:79:0E:
 http://tv.cloudcdn.me:80/live.ts?channelId=57&uid=5410&deviceMac=00:1A:79:0E:F8:A1
 #EXTINF:-1 tvg-id="" tvg-name="IN: Colors Bigg Boss 18 FHD (BK)" tvg-link="http://www.luckonline.eu/xmltv.php?username=restream234509023&password=5667883dhlkths89&type=m3u&output=m3u" tvg-logo="https://tv.cloudcdn.online/images/channels/BiggBoss18.png" group-title="INDIAN" ,IN: Colors Bigg Boss 18 FHD (BK)
 http://tv.cloudcdn.me:80/live.ts?channelId=78814&uid=5410&deviceMac=00:1A:79:0E:F8:A1
-#EXTINF:-1 tvg-id="" tvg-name="IN: Colors Cineplex Bollywood HD" tvg-link="http://www.luckonline.eu/xmltv.php?username=restream234509023&password=5667883dhlkths89&type=m3u&output=m3u" tvg-logo="http://ujm.from-in.com/panel/imageicon/6ae38c6.png" group-title="INDIAN" ,IN: Colors Cineplex Bollywood HD
-http://tv.cloudcdn.me:80/live.ts?channelId=62412&uid=5410&deviceMac=00:1A:79:0E:F8:A1
-#EXTINF:-1 tvg-id="" tvg-name="IN: Colors Cineplex FHD" tvg-link="http://www.luckonline.eu/xmltv.php?username=restream234509023&password=5667883dhlkths89&type=m3u&output=m3u" tvg-logo="http://ujm.from-in.com/panel/imageicon/711d60e.png" group-title="INDIAN" ,IN: Colors Cineplex FHD
-http://tv.cloudcdn.me:80/live.ts?channelId=470&uid=5410&deviceMac=00:1A:79:0E:F8:A1
-#EXTINF:-1 tvg-id="" tvg-name="IN: Colors Cineplex HD" tvg-link="http://www.luckonline.eu/xmltv.php?username=restream234509023&password=5667883dhlkths89&type=m3u&output=m3u" tvg-logo="http://ujm.from-in.com/panel/imageicon/711d60e.png" group-title="INDIAN" ,IN: Colors Cineplex HD
-http://tv.cloudcdn.me:80/live.ts?channelId=132478&uid=5410&deviceMac=00:1A:79:0E:F8:A1
-#EXTINF:-1 tvg-id="" tvg-name="IN: Colors Cineplex HD (UK)" tvg-link="http://www.luckonline.eu/xmltv.php?username=restream234509023&password=5667883dhlkths89&type=m3u&output=m3u" tvg-logo="http://ujm.from-in.com/panel/imageicon/99398d7.png" group-title="INDIAN" ,IN: Colors Cineplex HD (UK)
-http://tv.cloudcdn.me:80/live.ts?channelId=156&uid=5410&deviceMac=00:1A:79:0E:F8:A1
-#EXTINF:-1 tvg-id="" tvg-name="IN: Colors Cineplex Superhits HD" tvg-link="http://www.luckonline.eu/xmltv.php?username=restream234509023&password=5667883dhlkths89&type=m3u&output=m3u" tvg-logo="http://ujm.from-in.com/panel/imageicon/4a7b988.png" group-title="INDIAN" ,IN: Colors Cineplex Superhits HD
-http://tv.cloudcdn.me:80/live.ts?channelId=62413&uid=5410&deviceMac=00:1A:79:0E:F8:A1
 #EXTINF:-1 tvg-id="" tvg-name="IN: Colors Infinity FHD" tvg-link="http://www.luckonline.eu/xmltv.php?username=restream234509023&password=5667883dhlkths89&type=m3u&output=m3u" tvg-logo="http://ujm.from-in.com/panel/imageicon/ad083a7.png" group-title="INDIAN" ,IN: Colors Infinity FHD
 http://tv.cloudcdn.me:80/live.ts?channelId=157&uid=5410&deviceMac=00:1A:79:0E:F8:A1
 #EXTINF:-1 tvg-id="" tvg-name="IN: Colors Rishtey (UK)" tvg-link="http://www.luckonline.eu/xmltv.php?username=restream234509023&password=5667883dhlkths89&type=m3u&output=m3u" tvg-logo="http://ujm.from-in.com/panel/imageicon/c9e476d.png" group-title="INDIAN" ,IN: Colors Rishtey (UK)
@@ -257,16 +283,6 @@ http://tv.cloudcdn.me:80/live.ts?channelId=128484&uid=5410&deviceMac=00:1A:79:0E
 http://tv.cloudcdn.me:80/live.ts?channelId=181&uid=5410&deviceMac=00:1A:79:0E:F8:A1
 #EXTINF:-1 tvg-id="" tvg-name="IN: Satsang TV" tvg-link="http://www.luckonline.eu/xmltv.php?username=restream234509023&password=5667883dhlkths89&type=m3u&output=m3u" tvg-logo="http://ujm.from-in.com/panel/imageicon/08c1472.png" group-title="INDIAN" ,IN: Satsang TV
 http://tv.cloudcdn.me:80/live.ts?channelId=182&uid=5410&deviceMac=00:1A:79:0E:F8:A1
-#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Max 2 FHD" tvg-link="http://www.luckonline.eu/xmltv.php?username=restream234509023&password=5667883dhlkths89&type=m3u&output=m3u" tvg-logo="http://ujm.from-in.com/panel/imageicon/54d97b8.png" group-title="INDIAN" ,IN: Sony Max 2 FHD
-http://tv.cloudcdn.me:80/live.ts?channelId=183&uid=5410&deviceMac=00:1A:79:0E:F8:A1
-#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Max 2 UK" tvg-link="http://www.luckonline.eu/xmltv.php?username=restream234509023&password=5667883dhlkths89&type=m3u&output=m3u" tvg-logo="http://ujm.from-in.com/panel/imageicon/ad286ec.png" group-title="INDIAN" ,IN: Sony Max 2 UK
-http://tv.cloudcdn.me:80/live.ts?channelId=40479&uid=5410&deviceMac=00:1A:79:0E:F8:A1
-#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Max FHD" tvg-link="http://www.luckonline.eu/xmltv.php?username=restream234509023&password=5667883dhlkths89&type=m3u&output=m3u" tvg-logo="http://ujm.from-in.com/panel/imageicon/d052853.png" group-title="INDIAN" ,IN: Sony Max FHD
-http://tv.cloudcdn.me:80/live.ts?channelId=184&uid=5410&deviceMac=00:1A:79:0E:F8:A1
-#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Max FHD." tvg-link="http://www.luckonline.eu/xmltv.php?username=restream234509023&password=5667883dhlkths89&type=m3u&output=m3u" tvg-logo="http://ujm.from-in.com/panel/imageicon/d052853.png" group-title="INDIAN" ,IN: Sony Max FHD.
-http://tv.cloudcdn.me:80/live.ts?channelId=185&uid=5410&deviceMac=00:1A:79:0E:F8:A1
-#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Max UK FHD" tvg-link="http://www.luckonline.eu/xmltv.php?username=restream234509023&password=5667883dhlkths89&type=m3u&output=m3u" tvg-logo="http://ujm.from-in.com/panel/imageicon/d14875b.png" group-title="INDIAN" ,IN: Sony Max UK FHD
-http://tv.cloudcdn.me:80/live.ts?channelId=186&uid=5410&deviceMac=00:1A:79:0E:F8:A1
 #EXTINF:-1 tvg-id="" tvg-name="IN: Sony Pal FHD" tvg-link="http://www.luckonline.eu/xmltv.php?username=restream234509023&password=5667883dhlkths89&type=m3u&output=m3u" tvg-logo="http://ujm.from-in.com/panel/imageicon/dc6e2ef.png" group-title="INDIAN" ,IN: Sony Pal FHD
 http://tv.cloudcdn.me:80/live.ts?channelId=188&uid=5410&deviceMac=00:1A:79:0E:F8:A1
 #EXTINF:-1 tvg-id="" tvg-name="IN: Sony Pal FHD." tvg-link="http://www.luckonline.eu/xmltv.php?username=restream234509023&password=5667883dhlkths89&type=m3u&output=m3u" tvg-logo="http://ujm.from-in.com/panel/imageicon/8ef4aa1.png" group-title="INDIAN" ,IN: Sony Pal FHD.
@@ -293,16 +309,6 @@ http://tv.cloudcdn.me:80/live.ts?channelId=187&uid=5410&deviceMac=00:1A:79:0E:F8
 http://tv.cloudcdn.me:80/live.ts?channelId=195&uid=5410&deviceMac=00:1A:79:0E:F8:A1
 #EXTINF:-1 tvg-id="" tvg-name="IN: Star Bharat FHD UK" tvg-link="http://www.luckonline.eu/xmltv.php?username=restream234509023&password=5667883dhlkths89&type=m3u&output=m3u" tvg-logo="http://ujm.from-in.com/panel/imageicon/4b1400a.png" group-title="INDIAN" ,IN: Star Bharat FHD UK
 http://tv.cloudcdn.me:80/live.ts?channelId=305&uid=5410&deviceMac=00:1A:79:0E:F8:A1
-#EXTINF:-1 tvg-id="" tvg-name="IN: Star Gold 2 FHD" tvg-link="http://www.luckonline.eu/xmltv.php?username=restream234509023&password=5667883dhlkths89&type=m3u&output=m3u" tvg-logo="http://ujm.from-in.com/panel/imageicon/770f5fd.png" group-title="INDIAN" ,IN: Star Gold 2 FHD
-http://tv.cloudcdn.me:80/live.ts?channelId=33165&uid=5410&deviceMac=00:1A:79:0E:F8:A1
-#EXTINF:-1 tvg-id="" tvg-name="IN: Star Gold FHD" tvg-link="http://www.luckonline.eu/xmltv.php?username=restream234509023&password=5667883dhlkths89&type=m3u&output=m3u" tvg-logo="http://ujm.from-in.com/panel/imageicon/770f5fd.png" group-title="INDIAN" ,IN: Star Gold FHD
-http://tv.cloudcdn.me:80/live.ts?channelId=196&uid=5410&deviceMac=00:1A:79:0E:F8:A1
-#EXTINF:-1 tvg-id="" tvg-name="IN: Star Gold FHD UK" tvg-link="http://www.luckonline.eu/xmltv.php?username=restream234509023&password=5667883dhlkths89&type=m3u&output=m3u" tvg-logo="http://ujm.from-in.com/panel/imageicon/770f5fd.png" group-title="INDIAN" ,IN: Star Gold FHD UK
-http://tv.cloudcdn.me:80/live.ts?channelId=12358&uid=5410&deviceMac=00:1A:79:0E:F8:A1
-#EXTINF:-1 tvg-id="" tvg-name="IN: Star Gold Romance" tvg-link="http://www.luckonline.eu/xmltv.php?username=restream234509023&password=5667883dhlkths89&type=m3u&output=m3u" tvg-logo="" group-title="INDIAN" ,IN: Star Gold Romance
-http://tv.cloudcdn.me:80/live.ts?channelId=128485&uid=5410&deviceMac=00:1A:79:0E:F8:A1
-#EXTINF:-1 tvg-id="" tvg-name="IN: Star Gold Select FHD" tvg-link="http://www.luckonline.eu/xmltv.php?username=restream234509023&password=5667883dhlkths89&type=m3u&output=m3u" tvg-logo="http://ujm.from-in.com/panel/imageicon/9ccc18c.png" group-title="INDIAN" ,IN: Star Gold Select FHD
-http://tv.cloudcdn.me:80/live.ts?channelId=197&uid=5410&deviceMac=00:1A:79:0E:F8:A1
 #EXTINF:-1 tvg-id="" tvg-name="IN: Star Movies FHD" tvg-link="http://www.luckonline.eu/xmltv.php?username=restream234509023&password=5667883dhlkths89&type=m3u&output=m3u" tvg-logo="http://ujm.from-in.com/panel/imageicon/343394a.png" group-title="INDIAN" ,IN: Star Movies FHD
 http://tv.cloudcdn.me:80/live.ts?channelId=198&uid=5410&deviceMac=00:1A:79:0E:F8:A1
 #EXTINF:-1 tvg-id="" tvg-name="IN: Star Movies Select FHD" tvg-link="http://www.luckonline.eu/xmltv.php?username=restream234509023&password=5667883dhlkths89&type=m3u&output=m3u" tvg-logo="http://ujm.from-in.com/panel/imageicon/58a7cb9.png" group-title="INDIAN" ,IN: Star Movies Select FHD
@@ -341,12 +347,6 @@ http://tv.cloudcdn.me:80/live.ts?channelId=210&uid=5410&deviceMac=00:1A:79:0E:F8
 http://tv.cloudcdn.me:80/live.ts?channelId=211&uid=5410&deviceMac=00:1A:79:0E:F8:A1
 #EXTINF:-1 tvg-id="" tvg-name="IN: Zee Café FHD" tvg-link="http://www.luckonline.eu/xmltv.php?username=restream234509023&password=5667883dhlkths89&type=m3u&output=m3u" tvg-logo="http://ujm.from-in.com/panel/imageicon/47ceb8d.png" group-title="INDIAN" ,IN: Zee Café FHD
 http://tv.cloudcdn.me:80/live.ts?channelId=212&uid=5410&deviceMac=00:1A:79:0E:F8:A1
-#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Cinema FHD" tvg-link="http://www.luckonline.eu/xmltv.php?username=restream234509023&password=5667883dhlkths89&type=m3u&output=m3u" tvg-logo="http://ujm.from-in.com/panel/imageicon/9008fbf.png" group-title="INDIAN" ,IN: Zee Cinema FHD
-http://tv.cloudcdn.me:80/live.ts?channelId=213&uid=5410&deviceMac=00:1A:79:0E:F8:A1
-#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Cinema FHD." tvg-link="http://www.luckonline.eu/xmltv.php?username=restream234509023&password=5667883dhlkths89&type=m3u&output=m3u" tvg-logo="http://ujm.from-in.com/panel/imageicon/c466520.png" group-title="INDIAN" ,IN: Zee Cinema FHD.
-http://tv.cloudcdn.me:80/live.ts?channelId=12359&uid=5410&deviceMac=00:1A:79:0E:F8:A1
-#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Cinema UK" tvg-link="http://www.luckonline.eu/xmltv.php?username=restream234509023&password=5667883dhlkths89&type=m3u&output=m3u" tvg-logo="http://ujm.from-in.com/panel/imageicon/330f27f.png" group-title="INDIAN" ,IN: Zee Cinema UK
-http://tv.cloudcdn.me:80/live.ts?channelId=214&uid=5410&deviceMac=00:1A:79:0E:F8:A1
 #EXTINF:-1 tvg-id="" tvg-name="IN: Zee Classic" tvg-link="http://www.luckonline.eu/xmltv.php?username=restream234509023&password=5667883dhlkths89&type=m3u&output=m3u" tvg-logo="http://ujm.from-in.com/panel/imageicon/187b8c7.png" group-title="INDIAN" ,IN: Zee Classic
 http://tv.cloudcdn.me:80/live.ts?channelId=43379&uid=5410&deviceMac=00:1A:79:0E:F8:A1
 #EXTINF:-1 tvg-id="" tvg-name="IN: Zee News" tvg-link="http://www.luckonline.eu/xmltv.php?username=restream234509023&password=5667883dhlkths89&type=m3u&output=m3u" tvg-logo="http://ujm.from-in.com/panel/imageicon/9ece589.png" group-title="INDIAN" ,IN: Zee News
